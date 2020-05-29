@@ -7,6 +7,7 @@ Create a simple todo-list application with undo, redo functionality.
 - Keep your fork and solution in a private repository if possible
 - Write tests for your code
 - All unit tests must pass
+- Implement undo-redo functionality
 - Create namespaced undo store module, undo module has to be reusable for objects different to todo --> Has to be generic
 - Convert Todo store to a namespaced module
 - Todo store with ability to add, remove todo tasks and to set the completion state is already provided
